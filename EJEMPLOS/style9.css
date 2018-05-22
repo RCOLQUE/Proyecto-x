@@ -1,0 +1,11 @@
+.text {
+    color: red;
+    background: paleturquoise;
+    font-size: 50px;
+}
+
+.text2 {
+    color: blue;
+    background: yellow;
+    font-size: 80px;
+}

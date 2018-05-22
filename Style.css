@@ -1,0 +1,20 @@
+div{
+    background-color: yellowgreen;    
+    text-align: center;
+    border: 5px solid yellow ;
+    }
+
+#title {
+    font-size: 32px;
+    color: blue;
+}
+.title {
+    color: red;
+    
+    }
+
+#Wrapper-title {
+    height: 130px;
+    /*text-align: center ;*/
+    border: 5px solid blue;
+}

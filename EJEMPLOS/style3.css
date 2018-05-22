@@ -1,0 +1,22 @@
+p{
+	font-size: 18px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	line-height: 1.5;
+
+    width: 800px;
+    min-height: 450px;
+    margin: 20px auto 40px;
+    padding: 30px 60px;
+    border: 2px solid green;
+    background-color: #ccc;
+}
+img{
+    float: left;
+    margin: 25px 50px 75px 100;
+}
+
+.define{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}

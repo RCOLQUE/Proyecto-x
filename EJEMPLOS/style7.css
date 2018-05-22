@@ -1,0 +1,26 @@
+/* Estos elementos sirven para mostrar textos en diferentes dispositivos
+   Verificar la prueba usando la opcion Toogle device Toolbar
+*/
+.view{
+    height: 600px;
+    background-color: mediumspringgreen;
+}
+
+@media screen and (max-width:800px){
+    .view{
+        background-color: yellow;
+    }
+}
+
+@media screen and (max-width:415px){
+    .view{
+        background-color: blue;
+    }
+}
+
+@media screen and (max-width:375px){
+    .view{
+        background-color: red;
+    }
+}
+
